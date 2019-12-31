@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jauyang.com</id>
     <title>Yang</title>
-    <updated>2019-12-31T06:53:02.088Z</updated>
+    <updated>2019-12-31T07:06:02.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jauyang.com"/>
     <link rel="self" href="https://jauyang.com/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2019, Yang</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://jauyang.com/post/hello-gridea</id>
-        <link href="https://jauyang.com/post/hello-gridea">
+        <id>https://jauyang.com/hello-gridea</id>
+        <link href="https://jauyang.com/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
