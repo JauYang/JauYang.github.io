@@ -310,7 +310,7 @@ summary {
 body {
   background: #f8f9fa;
   color: #495057;
-  font-size: 16px;
+  font-size: 1rem;
 }
 a {
   text-decoration: none;
@@ -399,13 +399,13 @@ a {
   color: #212529;
 }
 .post-item .left .post-date {
-  font-size: 18px;
-  padding: 24px 0;
+  font-size: 1.2rem;
+  padding: 20px 0;
   color: #adb5bd;
 }
 .post-item .left .post-abstract {
   line-height: 24px;
-  font-size: 18px;
+  font-size: 1rem;
   color: #868e96;
 }
 .post-item .right {
@@ -750,4 +750,9 @@ a {
   color: #dee2e6;
   font-size: 16px;
   margin: 4px 8px;
+}
+/* 滚动槽 */
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
 }
