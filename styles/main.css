@@ -486,7 +486,7 @@ a {
 .post-detail .post-content p {
   line-height: 1.725;
   margin-bottom: 24px;
-  font-size: 18px;
+  font-size: 1.2rem;
   color: #495057;
 }
 .post-detail .post-content p code {
